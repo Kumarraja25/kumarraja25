@@ -6,16 +6,17 @@
 <img align="right" alt="coding_gif" width="350px" height="360px" src="https://img.freepik.com/free-vector/man-browsing-social-media_1308-120816.jpg?size=626&ext=jpg&ga=GA1.1.591867301.1702744602&semt=ais">
 
 <div>
-  <h2>About me :</h2>
-  - 👉 Primary coding language: C , Java .<br>
-  - 👉 Working on Webdev  currently started <b>Java Script</b>.<br>
-  - 🔭 I’m currently diving deep 🤿 into my college coursework<br>
-  - 🌱 I’m currently learning Data Structures and Algorithms using C and Web Development using Javascriptr.<br>
-  - 🤔 I’m looking for help with Web development.<br>
-  - 💬 Ask me about anything, I'm happy to help.<br>
-  - 🤩 Competitive Programmer<br>
-  - 😄 Pronouns: He/Him.<br>
-  - ⚡ Fun fact: I love <b>Programming</b>, <b>Volleyball,Football</b> and <b>Physical Workouts</b>.<br>
+  <h2>👨‍💻 About Me</h2>
+
+  💻 <b>Primary coding languages:</b> C and C++<br>
+  🌱 Currently strengthening my <b>Data Structures & Algorithms</b> skills<br>
+  🧩 Interested in <b>Competitive Programming</b> and problem-solving<br>
+  🎖️ <b>NCC Cadet | NCC ‘A’ & ‘B’ Certificate Holder</b><br>
+  💪 Passionate about <b>discipline, leadership, fitness, and teamwork</b><br>
+  🚀 Always eager to learn, improve, and take on new challenges<br>
+  💬 Ask me about <b>Programming, DSA, C/C++, and Competitive Programming</b><br>
+  ⚡ Outside coding, I enjoy <b>Football, Volleyball, Fitness, and Outdoor Activities</b><br>
+  😄 <b>Pronouns:</b> He/Him<br>
 </div>
 
 <h3 align="left">Connect with me:</h3>
