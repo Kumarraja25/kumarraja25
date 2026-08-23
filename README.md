@@ -1,6 +1,6 @@
 ![logo]()
 <h1 align="center">Hi there 👋, I'm Raja</h1>
-<h4 align="center">A adventurous Web Developer from India</h4>
+<h4 align="center">A Computer Science Engineer from India</h4>
 <br>
 <br>
 <img align="right" alt="coding_gif" width="350px" height="360px" src="https://img.freepik.com/free-vector/man-browsing-social-media_1308-120816.jpg?size=626&ext=jpg&ga=GA1.1.591867301.1702744602&semt=ais">
